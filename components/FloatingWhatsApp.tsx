@@ -1,0 +1,2 @@
+import {MessageCircle} from 'lucide-react';import {siteConfig} from '@/lib/site';
+export default function FloatingWhatsApp(){const message='Hello Havillah Recruitment Agency. I would like to ask about current recruitment opportunities and the application process.';return <a className="floating-whatsapp" href={`https://wa.me/${siteConfig.whatsapp}?text=${encodeURIComponent(message)}`} target="_blank" rel="noopener noreferrer" aria-label="Chat with Havillah Recruitment Agency on WhatsApp"><MessageCircle size={22}/><span>Chat on WhatsApp</span></a>}

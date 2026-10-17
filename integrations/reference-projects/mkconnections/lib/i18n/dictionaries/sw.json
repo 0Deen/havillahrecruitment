@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "gallery": "Picha",
+    "jobs": "Tafuta Kazi",
+    "how": "Jinsi Inavyofanya Kazi",
+    "employers": "Kwa Waajiri",
+    "about": "Kuhusu Sisi",
+    "safety": "Usalama",
+    "contact": "Wasiliana Nasi",
+    "login": "Ingia",
+    "apply": "Anza Maombi"
+  },
+  "hero": {
+    "eyebrow": "Kutoka Kenya kwenda Ghuba",
+    "headline": "Kazi yako.\nFursa yako.\nDunia yako.",
+    "sub": "MK Connection Limited inaunganisha vipaji vya Kikenya na fursa halali za ajira katika nchi za Ghuba — na timu halisi nyuma ya kila maombi.",
+    "ctaPrimary": "Tafuta Kazi",
+    "ctaSecondary": "Anza Maombi Yangu",
+    "ctaTertiary": "Ajiri Vipaji vya Kikenya"
+  },
+  "quickstart": {
+    "title": "Umekuja hapa kwa nini leo?",
+    "jobCardTitle": "Tafuta kazi",
+    "jobCardText": "Tafuta fursa halisi katika nchi sita za Ghuba.",
+    "jobCardCta": "Angalia kazi",
+    "applyCardTitle": "Omba sasa",
+    "applyCardText": "Hakuna akaunti inayohitajika. Tuambie kuhusu wewe kwa dakika chache.",
+    "applyCardCta": "Anza maombi",
+    "hireCardTitle": "Ajiri vipaji",
+    "hireCardText": "Pata wagombea wa Kikenya waliochunguzwa kwa biashara yako.",
+    "hireCardCta": "Omba vipaji"
+  },
+  "search": {
+    "title": "Pata mahali unapostahili",
+    "keyword": "Jina la kazi, ujuzi au neno muhimu",
+    "destination": "Unakoenda",
+    "category": "Aina ya kazi",
+    "experience": "Kiwango cha uzoefu",
+    "button": "Tafuta fursa"
+  },
+  "stats": {
+    "jobs": "Fursa zinazopatikana",
+    "placed": "Wagombea walioajiriwa",
+    "employers": "Washirika waajiri",
+    "countries": "Nchi za marudio"
+  },
+  "featured": {
+    "title": "Fursa za hivi karibuni",
+    "sub": "Mfano wa nafasi zinazopatikana kupitia MK Connection Limited.",
+    "view": "Angalia fursa",
+    "all": "Angalia kazi zote"
+  },
+  "why": {
+    "title": "Zaidi ya kazi. Ni safari.",
+    "p1t": "Fursa zilizothibitishwa",
+    "p1d": "Kila tangazo linakaguliwa kabla halijafika kwako — hakuna kubahatisha, hakuna nafasi za uongo.",
+    "p2t": "Msaada wa kibinadamu",
+    "p2d": "Maafisa wa uajiri halisi wanakuongoza kutoka maombi hadi uwekaji.",
+    "p3t": "Ufikiaji wa kimataifa",
+    "p3d": "Fursa katika Saudi Arabia, UAE, Qatar, Kuwait, Bahrain na Oman.",
+    "p4t": "Kazi kwanza",
+    "p4d": "Tunafikiria miaka mitano ijayo ya kazi yako, si tu safari yako ijayo."
+  },
+  "journey": {
+    "title": "Safari ya MK Connection Limited",
+    "s1": "Gundua", "s1d": "Angalia nafasi za kimataifa zilizothibitishwa.",
+    "s2": "Omba", "s2d": "Wasilisha wasifu wako — inachukua dakika chache.",
+    "s3": "Uchunguzi", "s3d": "Timu yetu ya uajiri inakagua maombi yako.",
+    "s4": "Mahojiano", "s4d": "Kutana na mwajiri au mwakilishi wake.",
+    "s5": "Uchaguzi", "s5d": "Endelea mara ukichaguliwa.",
+    "s6": "Maandalizi", "s6d": "Kamilisha nyaraka na hatua za kabla ya safari.",
+    "s7": "Safari", "s7d": "Ondoka kwenda kazi yako mpya, ukiwa tayari.",
+    "s8": "Anza", "s8d": "Anza kazi yako ya kimataifa."
+  },
+  "map": {
+    "title": "Kutoka Kenya. Kwenda duniani.",
+    "sub": "Chagua nchi ili kuona nafasi zinazopatikana huko."
+  },
+  "categories": { "title": "Vinjari kwa aina" },
+  "trust": {
+    "title": "Usalama wako ni kipaumbele",
+    "sub": "Uajiri halali haukuombi kulipa watu wasio rasmi au kutoa nyaraka nje ya njia zetu rasmi.",
+    "verify": "Thibitisha fursa",
+    "report": "Ripoti ulaghai",
+    "channelsTitle": "Njia rasmi za MK Connection Limited"
+  },
+  "employer": {
+    "title": "Vipaji bora. Bila mipaka.",
+    "sub": "Tunasaidia waajiri wa kimataifa kupata, kuchunguza na kuweka wafanyakazi wenye sifa wa Kikenya — pamoja na nyaraka na maandalizi ya safari.",
+    "cta": "Omba huduma za uajiri",
+    "cta2": "Zungumza na timu yetu"
+  },
+  "stories": { "title": "Watu halisi. Fursa halisi." },
+  "resources": { "title": "Maarifa ya kikazi", "sub": "Miongozo ya kukusaidia kujiandaa, kuomba na kufanikiwa nje ya nchi." },
+  "newsletter": {
+    "title": "Fursa zinapaswa kukutafuta.",
+    "placeholder": "Weka barua pepe yako",
+    "cta": "Baki ukiunganishwa",
+    "consent": "Ninakubali kupokea fursa na taarifa muhimu."
+  },
+  "footer": {
+    "tagline": "Kuunganisha vipaji vya Kikenya na fursa za kimataifa.",
+    "jobseekers": "Watafuta Kazi",
+    "employers": "Waajiri",
+    "resources": "Rasilimali",
+    "legal": "Kisheria",
+    "contact": "Wasiliana Nasi",
+    "rights": "Haki zote zimehifadhiwa."
+  },
+  "whatsapp": "Ongea kwa WhatsApp",
+  "chat": {
+    "title": "Msaidizi wa MK Connection Limited",
+    "greeting": "Habari \ud83d\udc4b Mimi ni Msaidizi wa MK Connection Limited. Unatafuta kazi, unahitaji msaada na maombi, au una swali tu?",
+    "q1": "Nitafutie kazi",
+    "q2": "Uajiri unafanyaje kazi?",
+    "q3": "Ongea na mtu",
+    "placeholder": "Andika ujumbe...",
+    "human": "Mwanachama wa timu ya MK Connection Limited amearifiwa. Mtu atakusaidia hivi karibuni."
+  },
+  "langSwitcher": {
+    "title": "Chagua lugha yako",
+    "sub": "Chagua lugha unayoifahamu vizuri zaidi."
+  }
+}

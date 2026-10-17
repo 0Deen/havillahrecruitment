@@ -1,0 +1,638 @@
+[
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/retail.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--retail.png",
+    "label": "Retail"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/restaurant.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--restaurant.png",
+    "label": "Restaurant"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/hospitality.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--hospitality.png",
+    "label": "Hospitality"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/factories.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--factories.png",
+    "label": "Factories"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/security.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--security.png",
+    "label": "Security"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/engineering.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--engineering.png",
+    "label": "Engineering"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/oil.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--oil.png",
+    "label": "Oil"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/logistics.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--logistics.png",
+    "label": "Logistics"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/cleaning.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--cleaning.png",
+    "label": "Cleaning"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/manufaturing.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--manufaturing.png",
+    "label": "Manufaturing"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/construction.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--construction.png",
+    "label": "Construction"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/driving.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--driving.png",
+    "label": "Driving"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/healthcare.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--healthcare.png",
+    "label": "Healthcare"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/domesticworker.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--domesticworker.png",
+    "label": "Domesticworker"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "jobs/agriculture.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--jobs--agriculture.png",
+    "label": "Agriculture"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/kuuwait.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--kuuwait.png",
+    "label": "Kuuwait"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0064.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0064.jpg",
+    "label": "Img 20260730 Wa0064"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0055.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0055.jpg",
+    "label": "Img 20260730 Wa0055"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0047.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0047.jpg",
+    "label": "Img 20260730 Wa0047"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0040.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0040.jpg",
+    "label": "Img 20260730 Wa0040"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0051.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0051.jpg",
+    "label": "Img 20260730 Wa0051"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0052.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0052.jpg",
+    "label": "Img 20260730 Wa0052"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0048.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0048.jpg",
+    "label": "Img 20260730 Wa0048"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0082.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0082.jpg",
+    "label": "Img 20260730 Wa0082"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0079.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0079.jpg",
+    "label": "Img 20260730 Wa0079"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0053.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0053.jpg",
+    "label": "Img 20260730 Wa0053"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/uae.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--uae.png",
+    "label": "Uae"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0042.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0042.jpg",
+    "label": "Img 20260730 Wa0042"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0041.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0041.jpg",
+    "label": "Img 20260730 Wa0041"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/qaatar.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--qaatar.png",
+    "label": "Qaatar"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0080.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0080.jpg",
+    "label": "Img 20260730 Wa0080"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0074.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0074.jpg",
+    "label": "Img 20260730 Wa0074"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/ourlogo.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--ourlogo.jpg",
+    "label": "Ourlogo"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/dohadoha.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--dohadoha.png",
+    "label": "Dohadoha"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0062.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0062.jpg",
+    "label": "Img 20260730 Wa0062"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0057.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0057.jpg",
+    "label": "Img 20260730 Wa0057"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0067.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0067.jpg",
+    "label": "Img 20260730 Wa0067"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0078.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0078.jpg",
+    "label": "Img 20260730 Wa0078"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/qatar.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--qatar.png",
+    "label": "Qatar"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0076.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0076.jpg",
+    "label": "Img 20260730 Wa0076"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0066.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0066.jpg",
+    "label": "Img 20260730 Wa0066"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0071.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0071.jpg",
+    "label": "Img 20260730 Wa0071"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/thekuwait.png",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--thekuwait.png",
+    "label": "Thekuwait"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0069.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0069.jpg",
+    "label": "Img 20260730 Wa0069"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0056.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0056.jpg",
+    "label": "Img 20260730 Wa0056"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0065.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0065.jpg",
+    "label": "Img 20260730 Wa0065"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0049.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0049.jpg",
+    "label": "Img 20260730 Wa0049"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0073.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0073.jpg",
+    "label": "Img 20260730 Wa0073"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0075.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0075.jpg",
+    "label": "Img 20260730 Wa0075"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0054.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0054.jpg",
+    "label": "Img 20260730 Wa0054"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0046.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0046.jpg",
+    "label": "Img 20260730 Wa0046"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0083.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0083.jpg",
+    "label": "Img 20260730 Wa0083"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0045.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0045.jpg",
+    "label": "Img 20260730 Wa0045"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0043.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0043.jpg",
+    "label": "Img 20260730 Wa0043"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0044.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0044.jpg",
+    "label": "Img 20260730 Wa0044"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0081.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0081.jpg",
+    "label": "Img 20260730 Wa0081"
+  },
+  {
+    "project": "nicksrecruitmentagency",
+    "source": "images/IMG-20260730-WA0058.jpg",
+    "file": "/images/combined-jobs/nicksrecruitmentagency--images--IMG-20260730-WA0058.jpg",
+    "label": "Img 20260730 Wa0058"
+  },
+  {
+    "project": "mkconnections",
+    "source": "jobs/naitechqatar.jpeg",
+    "file": "/images/combined-jobs/mkconnections--jobs--naitechqatar.jpeg",
+    "label": "Naitechqatar"
+  },
+  {
+    "project": "mkconnections",
+    "source": "jobs/housetohouseqatar.jpeg",
+    "file": "/images/combined-jobs/mkconnections--jobs--housetohouseqatar.jpeg",
+    "label": "Housetohouseqatar"
+  },
+  {
+    "project": "mkconnections",
+    "source": "jobs/housemanagerqatar.jpeg",
+    "file": "/images/combined-jobs/mkconnections--jobs--housemanagerqatar.jpeg",
+    "label": "Housemanagerqatar"
+  },
+  {
+    "project": "mkconnections",
+    "source": "jobs/femaledriversaudi.jpeg",
+    "file": "/images/combined-jobs/mkconnections--jobs--femaledriversaudi.jpeg",
+    "label": "Femaledriversaudi"
+  },
+  {
+    "project": "mkconnections",
+    "source": "jobs/airportloadersaudi.jpeg",
+    "file": "/images/combined-jobs/mkconnections--jobs--airportloadersaudi.jpeg",
+    "label": "Airportloadersaudi"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/plane.png",
+    "file": "/images/combined-jobs/mkconnections--design--plane.png",
+    "label": "Plane"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/image1.png",
+    "file": "/images/combined-jobs/mkconnections--design--image1.png",
+    "label": "Image1"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/image5.png",
+    "file": "/images/combined-jobs/mkconnections--design--image5.png",
+    "label": "Image5"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/image2.png",
+    "file": "/images/combined-jobs/mkconnections--design--image2.png",
+    "label": "Image2"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/uaeplane.png",
+    "file": "/images/combined-jobs/mkconnections--design--uaeplane.png",
+    "label": "Uaeplane"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/image3.png",
+    "file": "/images/combined-jobs/mkconnections--design--image3.png",
+    "label": "Image3"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/image4.png",
+    "file": "/images/combined-jobs/mkconnections--design--image4.png",
+    "label": "Image4"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/design/coolplane.png",
+    "file": "/images/combined-jobs/mkconnections--design--coolplane.png",
+    "label": "Coolplane"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/uradi/electrician.png",
+    "file": "/images/combined-jobs/mkconnections--uradi--electrician.png",
+    "label": "Electrician"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/uradi/beauty.jpg",
+    "file": "/images/combined-jobs/mkconnections--uradi--beauty.jpg",
+    "label": "Beauty"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/uradi/driver.png",
+    "file": "/images/combined-jobs/mkconnections--uradi--driver.png",
+    "label": "Driver"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/uradi/caregiver.jpg",
+    "file": "/images/combined-jobs/mkconnections--uradi--caregiver.jpg",
+    "label": "Caregiver"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/manamabahrain.png",
+    "file": "/images/combined-jobs/mkconnections--countries--manamabahrain.png",
+    "label": "Manamabahrain"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/muscatoman.png",
+    "file": "/images/combined-jobs/mkconnections--countries--muscatoman.png",
+    "label": "Muscatoman"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/qataar.png",
+    "file": "/images/combined-jobs/mkconnections--countries--qataar.png",
+    "label": "Qataar"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/saudiarabia.png",
+    "file": "/images/combined-jobs/mkconnections--countries--saudiarabia.png",
+    "label": "Saudiarabia"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/dubai.png",
+    "file": "/images/combined-jobs/mkconnections--countries--dubai.png",
+    "label": "Dubai"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/musact.png",
+    "file": "/images/combined-jobs/mkconnections--countries--musact.png",
+    "label": "Musact"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/dubaicity.png",
+    "file": "/images/combined-jobs/mkconnections--countries--dubaicity.png",
+    "label": "Dubaicity"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/welcometosaudi.png",
+    "file": "/images/combined-jobs/mkconnections--countries--welcometosaudi.png",
+    "label": "Welcometosaudi"
+  },
+  {
+    "project": "mkconnections",
+    "source": "images/countries/bahrain.png",
+    "file": "/images/combined-jobs/mkconnections--countries--bahrain.png",
+    "label": "Bahrain"
+  },
+  {
+    "project": "mkconnections",
+    "source": "logo.png",
+    "file": "/images/combined-jobs/mkconnections----logo.png",
+    "label": "Logo"
+  },
+  {
+    "project": "mkconnections",
+    "source": "atlas/fadsas.jpg",
+    "file": "/images/combined-jobs/mkconnections--atlas--fadsas.jpg",
+    "label": "Fadsas"
+  },
+  {
+    "project": "mkconnections",
+    "source": "atlas/people03.png",
+    "file": "/images/combined-jobs/mkconnections--atlas--people03.png",
+    "label": "People03"
+  },
+  {
+    "project": "mkconnections",
+    "source": "atlas/people02.png",
+    "file": "/images/combined-jobs/mkconnections--atlas--people02.png",
+    "label": "People02"
+  },
+  {
+    "project": "mkconnections",
+    "source": "atlas/jepg.jpg",
+    "file": "/images/combined-jobs/mkconnections--atlas--jepg.jpg",
+    "label": "Jepg"
+  },
+  {
+    "project": "mkconnections",
+    "source": "atlas/deen.jpg",
+    "file": "/images/combined-jobs/mkconnections--atlas--deen.jpg",
+    "label": "Deen"
+  },
+  {
+    "project": "mkconnections",
+    "source": "atlas/people01.png",
+    "file": "/images/combined-jobs/mkconnections--atlas--people01.png",
+    "label": "People01"
+  },
+  {
+    "project": "mkconnections",
+    "source": "mk/logo-white.jpeg",
+    "file": "/images/combined-jobs/mkconnections--mk--logo-white.jpeg",
+    "label": "Logo White"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "logo.jpeg",
+    "file": "/images/combined-jobs/ajiramajuu----logo.jpeg",
+    "label": "Logo"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "apple-touch-icon.png",
+    "file": "/images/combined-jobs/ajiramajuu----apple-touch-icon.png",
+    "label": "Apple Touch Icon"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/new/boss.jpeg",
+    "file": "/images/combined-jobs/ajiramajuu--new--boss.jpeg",
+    "label": "Boss"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/new/kuwaitcity.png",
+    "file": "/images/combined-jobs/ajiramajuu--new--kuwaitcity.png",
+    "label": "Kuwaitcity"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/new/home.png",
+    "file": "/images/combined-jobs/ajiramajuu--new--home.png",
+    "label": "Home"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/new/kuwait.png",
+    "file": "/images/combined-jobs/ajiramajuu--new--kuwait.png",
+    "label": "Kuwait"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/new/saudi.png",
+    "file": "/images/combined-jobs/ajiramajuu--new--saudi.png",
+    "label": "Saudi"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/Form/form.png",
+    "file": "/images/combined-jobs/ajiramajuu--Form--form.png",
+    "label": "Form"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/design/Tailor-Made Trips_ Expert Help for Unforgettable Getaways.png",
+    "file": "/images/combined-jobs/ajiramajuu--design--Tailor-Made-Trips_-Expert-Help-for-Unforgettable-Getaways.png",
+    "label": "Tailor Made Trips  Expert Help For Unforgettable Getaways"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/design/image5.png",
+    "file": "/images/combined-jobs/ajiramajuu--design--image5.png",
+    "label": "Image5"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/design/image1.png",
+    "file": "/images/combined-jobs/ajiramajuu--design--image1.png",
+    "label": "Image1"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "images/design/image3.png",
+    "file": "/images/combined-jobs/ajiramajuu--design--image3.png",
+    "label": "Image3"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "logo.png",
+    "file": "/images/combined-jobs/ajiramajuu----logo.png",
+    "label": "Logo"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "icon-192.png",
+    "file": "/images/combined-jobs/ajiramajuu----icon-192.png",
+    "label": "Icon 192"
+  },
+  {
+    "project": "ajiramajuu",
+    "source": "icon-512.png",
+    "file": "/images/combined-jobs/ajiramajuu----icon-512.png",
+    "label": "Icon 512"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "base_project": "havillah-recruitment-agency-expanded.zip",
+  "supporting_projects": [
+    {
+      "project": "nicksrecruitmentagency",
+      "source_files_preserved_excluding_public_binary_assets": 122,
+      "images_merged": 60
+    },
+    {
+      "project": "mkconnections",
+      "source_files_preserved_excluding_public_binary_assets": 104,
+      "images_merged": 129
+    },
+    {
+      "project": "ajiramajuu",
+      "source_files_preserved_excluding_public_binary_assets": 120,
+      "images_merged": 82
+    }
+  ],
+  "combined_images": 106,
+  "new_route": "/job-gallery",
+  "note": "Havillah remains the root application. Supporting project source/config/docs are preserved under integrations/reference-projects; their public binary assets are consolidated in the root image gallery. The original uploaded ZIPs remain the complete source snapshots.",
+  "image_selection_note": "Consolidated a broad set of distinct, web-optimized-size images (source files up to 1 MB) to keep the downloadable bundle practical; all original uploaded ZIPs remain available as complete asset archives."
+}

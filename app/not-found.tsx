@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <main className="info-page"><section className="info-hero"><p className="kicker">404 · PAGE NOT FOUND</p><h1>We couldn’t find that page.</h1><p>The link may be outdated or the vacancy may have been removed. Browse available role categories or contact the team to confirm current opportunities.</p><div className="info-actions"><Link className="button button-primary" href="/jobs">Browse jobs →</Link><Link className="button button-ghost" href="/contact">Contact Havillah</Link></div></section></main>}

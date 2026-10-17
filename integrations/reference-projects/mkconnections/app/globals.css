@@ -1,0 +1,168 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #ffffff;
+  color: #1f1f1f;
+}
+
+[dir="rtl"] .flip-rtl {
+  transform: scaleX(-1);
+}
+
+::selection {
+  background: #0b4aa2;
+  color: #1f1f1f;
+}
+
+*:focus-visible {
+  outline: 2px solid #0b4aa2;
+  outline-offset: 2px;
+}
+
+::placeholder {
+  color: #777777;
+  opacity: 1;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  box-shadow: 0 0 0 3px rgba(11, 74, 162, 0.15);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ----  MK Connection dark glass sections (ported from the  MK Connection Vite build) ----
+   Scoped under .mk-dark so the rest of the site's light theme is
+   untouched — these classes only apply inside the new  MK Connection showcase
+   sections on the homepage / destinations / about pages. */
+.mk-dark {
+  background-color: #05070d;
+  background-image:
+    radial-gradient(60% 60% at 20% 20%, rgba(242, 200, 121, 0.12) 0%, rgba(242, 200, 121, 0) 60%),
+    radial-gradient(50% 50% at 85% 15%, rgba(47, 84, 150, 0.18) 0%, rgba(47, 84, 150, 0) 60%);
+  color: rgba(255, 255, 255, 0.92);
+}
+.mk-dark .glass {
+  background: rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.mk-dark .glass-strong {
+  background: rgba(14, 18, 32, 0.75);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 20px 60px -20px rgba(0, 0, 0, 0.6);
+}
+.mk-dark .dim-white { color: rgba(255, 255, 255, 0.65); }
+.mk-dark .dim-whiter { color: rgba(255, 255, 255, 0.45); }
+.mk-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #e9c26d;
+}
+
+.container-content {
+  max-width: 1240px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+@media (min-width: 768px) {
+  .container-content {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+/* ----------------------------------------------------------------------
+   "Jobs by Country" feature — quiet-luxury / japandi styling.
+   Scoped under .jbc so nothing outside the new feature is affected.
+   ---------------------------------------------------------------------- */
+.jbc {
+  --jbc-navy-900: #232f45;
+  --jbc-navy-700: #2f3e58;
+  --jbc-navy-100: #e6eaf0;
+  --jbc-cream-100: #f6f2ec;
+  --jbc-cream-300: #e2d9ce;
+  --jbc-sand-500: #cdb295;
+  --jbc-sand-600: #b89a78;
+  background-color: var(--jbc-cream-100);
+  color: var(--jbc-navy-900);
+}
+
+/* very low-opacity woven-linen texture for hero / section backgrounds */
+.jbc-linen {
+  background-image:
+    repeating-linear-gradient(0deg, rgba(35, 47, 69, 0.035) 0px, rgba(35, 47, 69, 0.035) 1px, transparent 1px, transparent 3px),
+    repeating-linear-gradient(90deg, rgba(35, 47, 69, 0.035) 0px, rgba(35, 47, 69, 0.035) 1px, transparent 1px, transparent 3px);
+}
+
+/* thin wood-slat vertical line pattern, used as a decorative divider */
+.jbc-slats {
+  background-image: repeating-linear-gradient(
+    90deg,
+    rgba(205, 178, 149, 0.55) 0px,
+    rgba(205, 178, 149, 0.55) 2px,
+    transparent 2px,
+    transparent 10px
+  );
+}
+
+/* skeleton loader shimmer, cream-300 base per the design spec */
+.jbc-skeleton {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--jbc-cream-300);
+}
+.jbc-skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.55), transparent);
+  animation: jbc-shimmer 1.6s infinite;
+}
+@keyframes jbc-shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* focus ring for pills / inputs inside the feature, navy per spec */
+.jbc input:focus,
+.jbc select:focus,
+.jbc textarea:focus,
+.jbc button:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(35, 47, 69, 0.18);
+}
+
+@media (prefers-color-scheme: dark) {
+  .jbc.jbc-auto-dark {
+    background-color: var(--jbc-navy-900);
+    color: var(--jbc-cream-300);
+  }
+}

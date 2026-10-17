@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "jobs": "Find Jobs",
+    "how": "How It Works",
+    "employers": "For Employers",
+    "about": "About Us",
+    "safety": "Safety",
+    "contact": "Contact",
+    "login": "Log In",
+    "apply": "Start Application"
+  },
+  "hero": {
+    "eyebrow": "Kenya to the Gulf",
+    "headline": "Your career.\nYour opportunity.\nYour world.",
+    "sub": "MK Connection Limited connects Kenyan talent with verified, legitimate employment opportunities across the Gulf — with a real team behind every application.",
+    "ctaPrimary": "Find a Job",
+    "ctaSecondary": "Start My Application",
+    "ctaTertiary": "Hire Kenyan Talent"
+  },
+  "quickstart": {
+    "title": "What brings you here today?",
+    "jobCardTitle": "Find a job",
+    "jobCardText": "Search live opportunities across six Gulf countries.",
+    "jobCardCta": "Explore jobs",
+    "applyCardTitle": "Apply now",
+    "applyCardText": "No account needed. Tell us about yourself in minutes.",
+    "applyCardCta": "Start application",
+    "hireCardTitle": "Hire talent",
+    "hireCardText": "Source screened Kenyan candidates for your business.",
+    "hireCardCta": "Request talent"
+  },
+  "search": {
+    "title": "Find where you belong",
+    "keyword": "Job title, skill or keyword",
+    "destination": "Destination",
+    "category": "Category",
+    "experience": "Experience level",
+    "button": "Search opportunities"
+  },
+  "stats": {
+    "jobs": "Active opportunities",
+    "placed": "Candidates placed",
+    "employers": "Employer partners",
+    "countries": "Destination countries"
+  },
+  "featured": {
+    "title": "Latest opportunities",
+    "sub": "A sample of roles currently open through MK Connection Limited.",
+    "view": "View opportunity",
+    "all": "View all jobs"
+  },
+  "why": {
+    "title": "More than a job. A journey.",
+    "p1t": "Verified opportunities",
+    "p1d": "Every listing is reviewed before it reaches you — no guesswork, no fake vacancies.",
+    "p2t": "Human support",
+    "p2d": "Real recruitment officers guide you from application to placement, not a form that goes silent.",
+    "p3t": "Global access",
+    "p3d": "Opportunities across Saudi Arabia, the UAE, Qatar, Kuwait, Bahrain and Oman.",
+    "p4t": "Career first",
+    "p4d": "We think about your next five years, not just your next flight."
+  },
+  "journey": {
+    "title": "The MK Connection Limited journey",
+    "s1": "Discover", "s1d": "Browse verified international roles.",
+    "s2": "Apply", "s2d": "Submit your profile — takes minutes.",
+    "s3": "Screen", "s3d": "Our recruitment team reviews your application.",
+    "s4": "Interview", "s4d": "Meet the employer or their representative.",
+    "s5": "Select", "s5d": "Move forward once you're chosen.",
+    "s6": "Prepare", "s6d": "Complete documentation and pre-departure steps.",
+    "s7": "Travel", "s7d": "Depart for your new role, fully briefed.",
+    "s8": "Start", "s8d": "Begin your international career."
+  },
+  "map": {
+    "title": "From Kenya. To the world.",
+    "sub": "Select a destination to see what's currently open there."
+  },
+  "categories": { "title": "Browse by category" },
+  "trust": {
+    "title": "Your safety comes first",
+    "sub": "Legitimate recruitment never asks you to pay unofficial individuals or hand over documents outside our official channels.",
+    "verify": "Verify an opportunity",
+    "report": "Report a scam",
+    "channelsTitle": "Official MK Connection Limited channels"
+  },
+  "employer": {
+    "title": "Great talent. Without borders.",
+    "sub": "We help international employers source, screen and place qualified Kenyan workers — with documentation and pre-departure support handled end to end.",
+    "cta": "Request recruitment services",
+    "cta2": "Talk to our team"
+  },
+  "stories": { "title": "Real people. Real opportunities." },
+  "resources": { "title": "Career intelligence", "sub": "Guides to help you prepare, apply and thrive abroad." },
+  "newsletter": {
+    "title": "Opportunities should find you.",
+    "placeholder": "Enter your email",
+    "cta": "Stay connected",
+    "consent": "I agree to receive relevant opportunities and updates."
+  },
+  "footer": {
+    "tagline": "Connecting Kenyan talent with global opportunity.",
+    "jobseekers": "Job Seekers",
+    "employers": "Employers",
+    "resources": "Resources",
+    "legal": "Legal",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "whatsapp": "Chat on WhatsApp",
+  "chat": {
+    "title": "MK Connection Limited Assistant",
+    "greeting": "Hi \ud83d\udc4b I'm the MK Connection Limited Assistant. Looking for a job, need help with an application, or just have a question?",
+    "q1": "Find me a job",
+    "q2": "How does recruitment work?",
+    "q3": "Talk to a human",
+    "placeholder": "Type a message...",
+    "human": "A member of the MK Connection Limited team has been notified. Someone will assist you shortly."
+  },
+  "langSwitcher": {
+    "title": "Choose your language",
+    "sub": "Select the language you're most comfortable with."
+  }
+}
